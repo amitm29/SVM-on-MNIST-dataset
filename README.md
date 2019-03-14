@@ -1,7 +1,7 @@
 # SVM-on-MNIST-dataset
 It uses Support Vector Machine (SVM) model created from scratch to predict handwritten digits.
 
-As this is a multi-class classification problem, so there are two ways in which it can be solved using multiple inary calssifiers:-
+As this is a multi-class classification problem, so there are two ways in which it can be solved using multiple binary classifiers:-
 1. One Vs One Classification
 2. One Vs Rest Classification
 
